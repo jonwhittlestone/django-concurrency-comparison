@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "2.2 Test - watcher finishes",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/2.2/manage.py",
+            "args": [
+                "test",
+                "asset_handling.tests.All",
+            ],
+            "django": false
+        },
+
+
+}

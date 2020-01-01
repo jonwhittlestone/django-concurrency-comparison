@@ -3,5 +3,6 @@
         "activityBar.background": "#4F124F",
         "titleBar.activeBackground": "#6F196F",
         "titleBar.activeForeground": "#FEFCFE"
-    }
+    },
+    "python.pythonPath": "venv/bin/python3.6"
 }
